@@ -1,5 +1,0 @@
-ANTES DE PUBLICAR
-1. Sube TODOS los archivos de esta carpeta a la raíz de tu repositorio de GitHub.
-2. Rellena los datos entre corchetes ([NOMBRE...], [NIF], [DOMICILIO], [CORREO...]) en aviso-legal.html, privacidad.html y contacto.html.
-3. Añade el sitio en Google Search Console y envía sitemap.xml.
-4. Instala un gestor de consentimiento certificado (TCF) antes de mostrar anuncios en la UE.
